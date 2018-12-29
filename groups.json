@@ -1,1 +1,5 @@
-[{'name': 'Depeche Mode', 'gid': 125927592, 'members_count': 152590}, {'name': 'Synthpop [Futurepop, Retrowave, Electropop]', 'gid': 8564, 'members_count': 25194}, {'name': 'E:\\music\\leftfield', 'gid': 101522128, 'members_count': 12156}]
+[
+    {"name": "Depeche Mode", "gid": 125927592, "members_count": 152583}, 
+    {"name": "Synthpop [Futurepop, Retrowave, Electropop]", "gid": 8564, "members_count": 25201}, 
+    {"name": "E:\\music\\leftfield", "gid": 101522128, "members_count": 12154}
+]
